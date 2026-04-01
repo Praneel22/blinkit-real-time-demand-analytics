@@ -12,7 +12,7 @@ The pipeline processes multiple datasets including orders, products, inventory, 
 
 ## Data Pipeline Architecture
 
-![Architecture] <img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/e3cfffc3-65b3-4c17-bc02-b1abafd05271" />
+Architecture <img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/e3cfffc3-65b3-4c17-bc02-b1abafd05271" />
 
 
 Pipeline Flow:
@@ -33,3 +33,31 @@ Git & GitHub
 ---
 
 ## Project Structure
+
+## Project Structure
+
+```
+blinkit-real-time-demand-analytics
+│
+├── architecture
+│   └── architecture.png
+│
+├── data
+│   └── RAW datasets used for the analytics pipeline
+│
+├── etl
+│   └── Python ETL scripts for data processing
+│
+├── sql
+│   ├── blinkit_demand_by_hour.sql
+│   ├── blinkit_peak_hours.sql
+│   └── blinkit_top_products.sql
+│
+├── notebooks
+│   └── blinkit_etl_analysis.ipynb
+│
+├── dashboard
+│   └── Looker Studio dashboard screenshot
+│
+└── README.md
+```
