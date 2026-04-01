@@ -42,6 +42,6 @@ Once the data is stored in the warehouse, SQL analytics are used to generate ins
 The processed data is then visualized through an interactive dashboard to provide an easy way for stakeholders to monitor business metrics and identify trends.
 
 This project reflects a real-world analytics workflow used by modern e-commerce and quick-commerce companies, combining data engineering, cloud data warehousing, SQL analytics, and dashboard visualization to convert raw operational data into meaningful business insights.
-```
+
 Praneel Reddy
 ,,,
