@@ -53,13 +53,13 @@ Loaded processed data into Google BigQuery
 Wrote SQL queries to analyze demand patterns
 Built an interactive Tableau dashboard
 Designed a complete analytics pipeline
----
+
 ## Key Insights ##
 Identified peak order demand hours
 Observed strong demand during morning and evening hours
 Analyzed hourly demand trends across the day
 Created visual analytics to support operational decisions
----
+
 
 ## Example findings:
 
