@@ -122,6 +122,7 @@ Google BigQuery (Cloud Data Warehouse)
 Looker Studio (Dashboard Visualization)  
 Jupyter Notebook  
 Git & GitHub  
+Tableau
 
 ## Skills Demonstrated ##
 Data Cleaning using Python
